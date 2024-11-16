@@ -36,6 +36,7 @@ How to Use 🛠️
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Screenshots 📸
+
 ![todo-img1](https://github.com/user-attachments/assets/b892c5e5-2125-4be0-8d90-b6490b60967c)
 
 ![todo-img2](https://github.com/user-attachments/assets/4035ea03-0846-4ecf-b887-7ccd4e242874)
