@@ -37,10 +37,10 @@ How to Use 🛠️
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Screenshots 📸
 
-![todo-img1](https://github.com/user-attachments/assets/b892c5e5-2125-4be0-8d90-b6490b60967c)
+![todo-img1](https://github.com/user-attachments/assets/7de357ed-0bf4-4d5b-8c54-cc8fdd788b5a)
 
 
-![todo-img2](https://github.com/user-attachments/assets/66244e4a-50d7-4216-8b92-35bc99cc4bf0)
+![todo-img2](https://github.com/user-attachments/assets/296af6cc-a97d-4a6f-88b1-c9fa69402162)
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
