@@ -1,10 +1,12 @@
 To-Do List Application 📝
+-------------------
 
 A simple, elegant, and responsive To-Do List application to help you organize and track your daily tasks effectively. Built with HTML, CSS, and JavaScript, it includes features like task addition, deletion, marking as completed, and local storage support.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 Features ✨
+-----------
 
 1-📋 Add tasks: Easily input tasks to keep track of them.
 
@@ -19,6 +21,7 @@ Features ✨
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Tech Stack 🔧
+---------
 
 1-Frontend: HTML, CSS, JavaScript
 
@@ -29,6 +32,7 @@ Tech Stack 🔧
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 How to Use 🛠️
+--------------
 
 1. Clone the Repository:
    git clone https://github.com/your-username/todo-list-app.git
@@ -44,6 +48,7 @@ How to Use 🛠️
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Screenshots 📸
+--------------
 
 ![todo-img1](https://github.com/user-attachments/assets/7de357ed-0bf4-4d5b-8c54-cc8fdd788b5a)
 
@@ -56,6 +61,7 @@ Screenshots 📸
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Project Structure 📂
+----------------------
 .
 ├── index.html         # Main HTML file
 
@@ -68,20 +74,16 @@ Project Structure 📂
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Contributions 🤝
+-----------------
 
 Contributions are welcome!
 If you have suggestions for improving this project, feel free to fork the repository and create a pull request. You can also open issues for any bugs or feature requests.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-License 📜
-
-This project is licensed under the MIT License.
-Feel free to use, modify, and distribute this project as per the terms of the license.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Acknowledgements 🙌
+--------------------
 
 Special thanks to all open-source contributors and the community for their guidance and inspiration. 😊
 
